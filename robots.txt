@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tzava-instalatzia.co.il/sitemap.xml
